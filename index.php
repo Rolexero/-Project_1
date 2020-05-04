@@ -8,7 +8,7 @@ if (isset($_POST["Myproject"])){
 }
 
 else{
-	$var = array("Tola", "Femola", 56, "Mayorkun");
+	$var = array("Tola", "Femola", 56, "Mayor");
 	
 }
 
